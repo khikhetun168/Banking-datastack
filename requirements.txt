@@ -3,6 +3,8 @@ pyyaml
 psycopg2-binary
 faker
 
+
+
 #CDC
 python-dotenv
 requests
