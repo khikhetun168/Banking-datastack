@@ -3,8 +3,7 @@ pyyaml
 psycopg2-binary
 faker
 
-#Airflow
-apache-airflow==2.9.3
+
 
 #CDC
 python-dotenv

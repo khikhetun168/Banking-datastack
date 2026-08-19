@@ -3,7 +3,7 @@ import os
 import random
 import sys
 import time
-from decimal import Decimal, ROUND_DOWN
+from decimal import ROUND_DOWN, Decimal
 
 import psycopg2
 from dotenv import load_dotenv
